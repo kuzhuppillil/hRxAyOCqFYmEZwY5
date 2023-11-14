@@ -1,4 +1,4 @@
-# nU8E2quXIo33gksu
+# hRxAyOCqFYmEZwY5
 # Potential Talent (NLP)
 ## Data Description
 
@@ -33,12 +33,10 @@ To assess the success of our model, we will:
 
 ## Bonus(es)
 
-We are also interested in exploring the following aspects:
-
     Filtering Candidates: How can we efficiently filter out candidates who should not be on this list in the first place?
 
     Universal Cut-off Point: Is it possible to determine a cut-off point that works effectively for various roles without excluding high-potential candidates?
 
     Bias Mitigation: Can we develop automated procedures to reduce human bias in the candidate selection process?
 
-Our objective is to build a robust algorithm that not only predicts candidate fitness but also adapts to changes and promotes fairness and efficiency in the selection process.
+    Our objective is to build a robust algorithm that not only predicts candidate fitness but also adapts to changes and promotes fairness and efficiency in the selection process.
