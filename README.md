@@ -62,11 +62,11 @@ We are seeking candidates who show interest in human resources, which can be ide
 
   ![image](https://github.com/kuzhuppillil/hRxAyOCqFYmEZwY5/assets/25860818/73900b4e-c65f-40fa-8b12-a0e75851767a)
 
-To optimize the fitness score, we can combined all the individual fit scores through **feature engineering** for a comprehensive evaluation of candidate suitability. We can employed a **weighted sum** approach to create a **final fit score**, considering the significance of each candidate's connections.
+To optimize the fitness score, we can combined all the individual fit scores through **feature engineering** for a comprehensive evaluation of candidate suitability. We can also employe a **weighted sum** approach to create a **final fit score**, considering the significance of each candidate's connections.
 
 ## Ranking candidates:
 * We incorporated a weighted fit score, utilizing the scaled connection count along with text relevance from multiple fit scores. Given the crucial role of connections in recruitment positions, this approach assigns significant importance to connection count in HR job roles. The weighted combination of fitness scores and scaled connection count aims to strike a balance between the influence of connections and title semantics.
-* To enhance the effectiveness of the ranking solution, a cut-off threshold has been implemented to eliminate non-relevant candidates. The current threshold has been fine-tuned to align with the characteristics of the current dataset. It ensures a nuanced trade-off between title semantics and the networking skills of candidates.
+* To enhance the effectiveness of the ranking solution, a cut-off threshold has been implemented to eliminate non-relevant candidates. The current threshold has been fine-tuned to align with the characteristics of the current dataset. It ensures a fair trade-off between title semantics and the networking skills of candidates.
 
  ![image](https://github.com/kuzhuppillil/hRxAyOCqFYmEZwY5/assets/25860818/503dd042-cf4f-4b34-a964-973a211647b6)
 
